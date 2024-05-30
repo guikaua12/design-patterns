@@ -12,6 +12,7 @@
         <module>observer-pattern</module>
         <module>builder-pattern</module>
         <module>factory-pattern</module>
+        <module>singleton-pattern</module>
     </modules>
 
     <properties>
