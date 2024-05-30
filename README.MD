@@ -5,5 +5,5 @@ Project showing some of the most used design patterns, implemented in Java.
 - [ ] MVC
 - [x] Builder
 - [ ] Singleton
-- [ ] Factory
+- [x] Factory
 - [ ] Decorator
