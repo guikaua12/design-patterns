@@ -7,4 +7,3 @@ Project showing some of the most used design patterns, implemented in Java.
 - [x] Builder
 - [x] Singleton
 - [x] Factory
-- [ ] Decorator
